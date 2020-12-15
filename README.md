@@ -1,6 +1,6 @@
-<img src="header.gif" >
-
 ## Hello there! 👋✨
+
+<img src="header.gif" >
 <!--
 **RobertaGabor/RobertaGabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
