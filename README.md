@@ -1,4 +1,4 @@
-### Hello there general kenobi👋✨
+### Hello there! 👋✨
 
 <img src="header.gif" >
 <!--
