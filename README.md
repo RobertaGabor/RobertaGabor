@@ -3,7 +3,8 @@
 <img src="header.gif" >
 <h3>I am Roby! my game tag Pokxcita is also welcome. Here you will find my proyects (currently for my college) and of my own. Its still in progress and organization.
 
-Im a Junior Programmer, I've worked on Arduino Software and Javascript; Im currently focus on C# and POO(programming objects oriented), I have knowledge on .NET and VS IDE. The presentations of my proyects are all on spanish as like almost all of my commits. Here you can find: C, C#, Javascript, Python (soon!)</h3>
+Im a Junior Programmer, I've worked on Arduino Software and Javascript; Im currently focus on C# and POO(programming objects oriented), I have knowledge on .NET and VS IDE and working Databases on them(SQL SERVER). The presentations of my proyects are all on spanish as like almost all of my commits. Here you can find: C, C#, Javascript, Python (soon!)</h3>
+<a href="https://www.linkedin.com/in/robertagabordeveloper/">Find me on Linkedin!<img src="linkedinIco.png" alt="" id="logo"></a>
 <h2>See you General Kenobi!👋✨<h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaGabor&layout=compact)](https://github.com/RobertaGabor/github-readme-stats)
