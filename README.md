@@ -1,13 +1,22 @@
 ## Hello there! 👋✨
 
 <img src="header.gif" >
-<h3>I am Roby! my game tag Pokxcita is also welcome. Here you will find my proyects (currently for my college) and of my own. Its still in progress and organization.
+<h3>I am Roby! my game tag Pokxcita is also welcome, Im on my 2nd year of my degree. Here you will find my proyects (currently for my college) and of my own. Its still in progress and organization.
 
+<<<<<<< HEAD
 Im a Junior Programmer, I've worked on Arduino Software and Javascript; Im currently focus on C# and POO(programming objects oriented), I have knowledge on .NET and VS IDE and working Databases on them(SQL SERVER). The presentations of my proyects are all on spanish as like almost all of my commits. Here you can find: C, C#, Javascript, Python (soon!)</h3>
 <a href="https://www.linkedin.com/in/robertagabordeveloper/">Find me on Linkedin!<img src="linkedinIco.png" alt="" id="logo"></a>
+=======
+Im a Junior Programmer, I've worked on Arduino Software and Javascript; Im currently focus on C# and POO(programming objects oriented), I have knowledge on .NET and VS IDE. The presentations of my proyects are all on spanish as like almost all of my commits. Here you can find: C, C#, Javascript, Python (soon!)
+
+🧑💻Workflow: Git cmd, Github, Branches
+
+🧑💻SO: Linux, Windows
+</h3>
+>>>>>>> 3be49665fd70007faa94b2b0ddbc050c28a82599
 <h2>See you General Kenobi!👋✨<h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaGabor&layout=compact)](https://github.com/RobertaGabor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaGabor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RobertaGabor/RobertaGabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
