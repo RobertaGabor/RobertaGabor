@@ -12,7 +12,7 @@ Im a Junior Programmer, I've worked on Arduino Software and Javascript; Im curre
 </h3>
 <h2>See you General Kenobi!👋✨<h2>
 
-<a href="https://www.linkedin.com/in/robertagabordeveloper/"><img src="linkedinIco.png" height="120px" weight="735px" id="logo"></a>
+<a href="https://www.linkedin.com/in/robertagabordeveloper/"><img src="linkedinIco.png" height="40px" weight="345px" id="logo"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaGabor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
