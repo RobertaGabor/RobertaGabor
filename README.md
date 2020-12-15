@@ -1,7 +1,7 @@
 ## Hello there! 👋✨
 
 <img src="header.gif" >
-<a href="https://www.linkedin.com/in/robertagabordeveloper/"><img src="linkedinIco.png" height="180px" weight="980px" id="logo"></a>
+
 <h3>I am Roby! my game tag Pokxcita is also welcome, Im on my 2nd year of my degree. Here you will find my proyects (currently for my college) and of my own. Its still in progress and organization.
 
 Im a Junior Programmer, I've worked on Arduino Software and Javascript; Im currently focus on C# and POO(programming objects oriented), I have knowledge on .NET and VS IDE and working Databases on them(SQL SERVER). The presentations of my proyects are all on spanish as like almost all of my commits. Here you can find: C, C#, Javascript, Python (soon!)
@@ -11,6 +11,8 @@ Im a Junior Programmer, I've worked on Arduino Software and Javascript; Im curre
 🧑💻SO: Linux, Windows
 </h3>
 <h2>See you General Kenobi!👋✨<h2>
+
+<a href="https://www.linkedin.com/in/robertagabordeveloper/"><img src="linkedinIco.png" height="120px" weight="735px" id="logo"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaGabor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
