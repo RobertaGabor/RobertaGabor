@@ -1,4 +1,4 @@
-#### Hello there! 👋✨
+## Hello there! 👋✨
 
 <img src="header.gif" >
 <!--
