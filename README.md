@@ -5,7 +5,6 @@
 
 Im a Junior Programmer, I've worked on Arduino Software and Javascript; Im currently focus on C# and POO(programming objects oriented), I have knowledge on .NET and VS IDE. The presentations of my proyects are all on spanish as like almost all of my commits. Here you can find: C, C#, Javascript, Python (soon!)</h3>
 <h2>See you General Kenobi!👋✨<h2>
-
 <!--
 **RobertaGabor/RobertaGabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
