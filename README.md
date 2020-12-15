@@ -1,7 +1,7 @@
 ## Hello there! 👋✨
 
 <img src="header.gif" >
-<h3 align="center">I am student</h3>
+<h2 align="center">I am student</h2>
 <!--
 **RobertaGabor/RobertaGabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
