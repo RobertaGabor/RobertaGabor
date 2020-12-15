@@ -11,7 +11,7 @@ Im a Junior Programmer, I've worked on Arduino Software and Javascript; Im curre
 </h3>
 <h2>See you General Kenobi!👋✨<h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaGabor&layout=compact)](https://github.com/RobertaGabor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaGabor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RobertaGabor/RobertaGabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
