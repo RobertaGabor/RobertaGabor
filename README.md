@@ -4,7 +4,7 @@
 
 <h3>I am Roby! my game tag Pokxcita is also welcome, Im on my last year of my degree. Here you will find my projects (currently for my college) and of my own. Its still in progress and organization.
 
-Im a Junior Programmer, I've worked on Arduino Software, Javascript, and C; Im currently focus on C# and POO/OOP (Object-oriented programming), I have knowledge on .NET and VS IDE and working Databases on them (SQL SERVER). The presentations of my projects are all on spanish as like almost all of my commits. Here you can find: C, C#, Javascript/HTML, Python, PHP
+Im a Junior Programmer, I've worked on Arduino Software, Javascript, and C; Im currently focus on C# and POO/OOP (Object-oriented programming), I have knowledge on .NET and VS IDE and working Databases on them (SQL SERVER). The presentations of my projects are all on spanish as like almost all of my commits. Here you can find: C, C#, Javascript/HTML, Python, PHP, Angular
 
 🧑💻Workflow: Git cmd, Github, Branches, Gitlab
 
