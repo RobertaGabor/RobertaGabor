@@ -6,14 +6,14 @@
 
 Im a Semi-Senior Programmer, I have worked on projects in:
   Arduino Software,
-  Javascript,
+  Javascript with CSS and HTML,
   C, 
   C#, 
   Typescript, 
   Selenium, 
   VBA,
   Python,
-  Automation Anywhere/ Power Automate,
+  Automation Anywhere and Power Automate,
   Power apps,
   Angular
   
